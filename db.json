@@ -1,0 +1,11 @@
+[
+    {
+        "id": "51ffdf8b-523c-46fd-9c6f-966354181269",
+        "name": "sample",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 100.0,
+        "pdf_filename": "sample_51ffdf8b.pdf",
+        "image_filename": "88d8d7df6e324c158a44f565d3672b6b.jpg"
+    }
+]

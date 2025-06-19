@@ -1,0 +1,14 @@
+[
+    {
+        "id": "f70fb070-39a5-4468-89b8-000b850cc879",
+        "username": "admin",
+        "password": "scrypt:32768:8:1$PLh2HgwW31jCf2k7$2174668bf38c9d7c94a3cda61a37ad7ad8110db538b340a27d6ed5d573b33a10c1d63a62770d5027cfec53df93229a107a46a6ad362f3f8a54d1e424178f8a50",
+        "role": "admin"
+    },
+    {
+        "id": "b87f9be3-ebf3-4e2c-8fb8-26ec5e48e6b1",
+        "username": "k.santhoshkumar165@gmail.com",
+        "password": "scrypt:32768:8:1$mAHXjVrnabWV3RCu$5e362bbd0cdd1235e847e22bd16b2e9b7dc881535dc56fba6400de503f2331cdb707e0b88ac030c0d45ae7058b0eaf38b5d6ea21ec6de09fbd4575dd5e7ba86b",
+        "role": "user"
+    }
+]
