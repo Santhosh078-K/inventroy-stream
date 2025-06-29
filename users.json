@@ -10,5 +10,11 @@
         "username": "k.santhoshkumar165@gmail.com",
         "password": "scrypt:32768:8:1$mAHXjVrnabWV3RCu$5e362bbd0cdd1235e847e22bd16b2e9b7dc881535dc56fba6400de503f2331cdb707e0b88ac030c0d45ae7058b0eaf38b5d6ea21ec6de09fbd4575dd5e7ba86b",
         "role": "user"
+    },
+    {
+        "id": "0c0d35a9-d73e-43dc-9ea3-82ad2e435d67",
+        "username": "santhosh kumar ",
+        "password": "scrypt:32768:8:1$4cMrVsJb6QathuQt$1d95e2d99f206ec37dca0aaa75b945b5c887cff8624f9d32d1c0e1764ea3818eb699e7f22ecf9620e7128e85dae1e3bff524e83791601d95dc680d9b632f9847",
+        "role": "user"
     }
 ]
